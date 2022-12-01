@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     'accounts',
     'django_dump_die',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
